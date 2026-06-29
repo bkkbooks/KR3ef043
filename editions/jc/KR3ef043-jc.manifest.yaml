@@ -1,0 +1,228 @@
+canonical_identifier: bkk:krp/KR3ef043/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ef043/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷寒補例
+  identifiers:
+    krp: KR3ef043
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef043.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ef043_000-jc.yaml, hash: 'sha256:3ae6bf1276fae16ad2a48e91e3622a4ff864db9558eafec56441c7b0e492dde6'}
+  - {seq: 1, filename: KR3ef043_001-jc.yaml, hash: 'sha256:0623b4e8cd6fad6f535571dd9344bd39915a962021c712be53816f30640b0d88'}
+  - {seq: 3, filename: KR3ef043_003-jc.yaml, hash: 'sha256:12851601fec0c51f676674328b462a0e831393a9dc9d3f6574469eaafc04c00b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ef043_000-jc.markers.yaml, hash: 'sha256:69b5dde326222c6e653409b1db94327b9a5369b2b262866599d9af8fa06b40cc'}
+  - {seq: 1, role: markers, filename: assets/KR3ef043_001-jc.markers.yaml, hash: 'sha256:a7006697f9c5d15ed4c57a192e1ccefd8b2a8cc71f262d73e3ba36b285fdd1cf'}
+  - {seq: 3, role: markers, filename: assets/KR3ef043_003-jc.markers.yaml, hash: 'sha256:1fa9423f9e888b08db0660d72fee6931541b7cc26180f6befc225a6043d290bb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ef043_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 303
+  label: 敘
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef043_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 8442
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef043_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 464
+  label: 傷寒論難讀並宜補大旨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef043_jc_001-d3d3
+    span:
+    - body
+    - 464
+    - 1671
+  label: 三陽三陰分經名義
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef043_jc_001-d3d4
+    span:
+    - body
+    - 1671
+    - 2916
+  label: 傷寒重病多是下焦伏寒
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef043_jc_001-d3d5
+    span:
+    - body
+    - 2916
+    - 3735
+  label: 伏寒觸發與傷寒時溫脈證並病機異同
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef043_jc_001-d3d6
+    span:
+    - body
+    - 3735
+    - 5047
+  label: 即病伏氣直中傳經四證異同
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef043_jc_001-d3d7
+    span:
+    - body
+    - 5047
+    - 5648
+  label: 晚發是傷寒正病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef043_jc_001-d3d8
+    span:
+    - body
+    - 5648
+    - 6295
+  label: 兩感有三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef043_jc_001-d3d9
+    span:
+    - body
+    - 6295
+    - 7500
+  label: 水氣凌心即是三焦傷傷寒雜病皆有之
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef043_jc_001-d3d10
+    span:
+    - body
+    - 7500
+    - 8442
+  label: 無端暴喘即是寒入命門傷寒雜病皆有之
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef043_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 6572
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef043_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 2552
+  label: 傷寒論讀法十四條
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef043_jc_003-d4d3
+    span:
+    - body
+    - 2552
+    - 3012
+  label: 南北傷寒溫病異治
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef043_jc_003-d4d4
+    span:
+    - body
+    - 3012
+    - 3453
+  label: 附治瘧宜破血發汗
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef043_jc_003-d4d5
+    span:
+    - body
+    - 3453
+    - 3850
+  label: 附治痢宜和營衛養筋膜
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef043_jc_003-d4d6
+    span:
+    - body
+    - 3850
+    - 4228
+  label: 男婦傷寒溫病舌黑異治
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef043_jc_003-d4d7
+    span:
+    - body
+    - 4228
+    - 5597
+  label: 附讀傷寒論雜記四篇
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef043_jc_003-d4d8
+    span:
+    - body
+    - 5597
+    - 6145
+  label: 牢脈病機
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef043_jc_003-d4d9
+    span:
+    - body
+    - 6145
+    - 6572
+  label: 發汗別法
+  type: section
+  level: 2
+hash: sha256:2c8293c85ead69df89ca768eb792e25947564025fbb549ace86a7e5e5eaa8feb
