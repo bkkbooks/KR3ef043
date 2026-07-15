@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ef043/v1
 canonical_location: https://kanripo.org/bkk/KR3ef043/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 傷寒補例
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ef043_000.yaml, hash: 'sha256:3ae6bf1276fae16ad2a48e91e3622a4ff864db9558eafec56441c7b0e492dde6'}
-  - {seq: 1, filename: KR3ef043_001.yaml, hash: 'sha256:0623b4e8cd6fad6f535571dd9344bd39915a962021c712be53816f30640b0d88'}
-  - {seq: 3, filename: KR3ef043_003.yaml, hash: 'sha256:12851601fec0c51f676674328b462a0e831393a9dc9d3f6574469eaafc04c00b'}
+  - {seq: 0, filename: KR3ef043_000.yaml, hash: 'sha256:4a09eb8d5b0b89a0755ec588594d5e7960420f5247a062af52ec84ad0c48e4ec'}
+  - {seq: 1, filename: KR3ef043_001.yaml, hash: 'sha256:c8170b719d8391d6478cb7e9c7666cd473a04e39458f210a1c53e8759b65cf7e'}
+  - {seq: 3, filename: KR3ef043_003.yaml, hash: 'sha256:df3d057f3216e4b3252c5ed1abaa6afe73f5ca72c340821abf0477e7febce68b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef043_000.markers.yaml, hash: 'sha256:be40d89a6b834a56a1ae1907fa54505d9ce3703cb9ccaa9e6b2e4e6e1555686e'}
-  - {seq: 1, role: markers, filename: assets/KR3ef043_001.markers.yaml, hash: 'sha256:892338d111a105485132d9b693de723e77c1cc8f3b4fe44f484c08dd77651f96'}
-  - {seq: 3, role: markers, filename: assets/KR3ef043_003.markers.yaml, hash: 'sha256:aaae9cdbedeed87d80974e2889db9341cb378c92b253845795dcf4c9e741230f'}
+  - {seq: 0, role: markers, filename: assets/KR3ef043_000.markers.yaml, hash: 'sha256:a9dd4cddda6b6268dbcc8b889521725f877fa62ced500301388478b31ca4d8f0'}
+  - {seq: 1, role: markers, filename: assets/KR3ef043_001.markers.yaml, hash: 'sha256:a362580a6fddbc4e4f84607b777dd811e55ac6b61d4083da0fb5667da5de3bda'}
+  - {seq: 3, role: markers, filename: assets/KR3ef043_003.markers.yaml, hash: 'sha256:ffe06da1f83f27daf4d5e9e471b7967a6bb4514fc325b087987fddc1e9d7a556'}
 table_of_contents:
 - ref:
     seq: 0
@@ -225,4 +225,7 @@ table_of_contents:
   label: 發汗別法
   type: section
   level: 2
-hash: sha256:5bac7ed9fcb75b47e88d13d680f18e2fa7bf3faae2fba7ea0e3c3adb16a768c5
+hash: sha256:ce679a621a4eb15ef0fbd0bd20a0488d20cbb4d6f0e316f482d8b18d7f8a9253
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
